@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+	
+}
+#img{
+	height: 545px;
+	width: 935px;
+	float: right;
+	margin-bottom: 55px;
+}
+#i{
+	width: 45px;
+	height: 55px;
+}
+#a{
+	
+	margin-right: 655px;
+	background-color: white;
+	width: 525px;
+	height: 250px;
+    border-style: solid;
+    border-color: darkorange;
+    border-radius: 25px;
+    border-width: 15px;
+}
